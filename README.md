@@ -1,4 +1,4 @@
-# 🌍 3D Earth Globe
+# 🌍 Eath 3d
 
 An interactive 3D Earth globe built with Three.js and WebGL featuring HD textures and smooth real-time rotation. Explore the Earth from your browser — works on desktop and mobile devices.
 
